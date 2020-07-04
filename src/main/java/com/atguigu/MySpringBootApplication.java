@@ -11,5 +11,6 @@ public class MySpringBootApplication {
         // run方法 表示运行SpringBoot的引导类 run参数就是SpringBoot引导类的字节码对象
         SpringApplication.run(MySpringBootApplication.class,args);
         System.out.println("hello,world");
+        System.out.println("我很不好，谢谢");
     }
 }
